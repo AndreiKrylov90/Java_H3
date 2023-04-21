@@ -6,7 +6,6 @@ import java.util.stream.IntStream;
 
 public class program {
     public static void main(String[] args) {
-
         ex03();
     }
 
@@ -119,10 +118,6 @@ public class program {
             clearListWithNumbers.add(clearList.get(i) + " " + counts[i]);
         }
         System.out.println(clearListWithNumbers);
-    }
-
-    static void ex04() {
-
     }
 
 }
